@@ -9,6 +9,16 @@ Where can I sign up as a potential donor?,donor
 I am healthy and interested in kidney donation.,donor
 Can you explain the organ donor registration process?,donor
 I want to help patients waiting for a transplant.,donor
+How can I become a kidney donor?,donor
+What steps should I take to donate my kidney?,donor
+Can I give one of my kidneys to someone in need?,donor
+Am I eligible to donate a kidney?,donor
+I want to donate an organ but don't know where to start.,donor
+Can healthy people donate a kidney while they're alive?,donor
+Is it possible to donate my kidney to a stranger?,donor
+I would like to volunteer as an organ donor.,donor
+What medical tests are required before donating a kidney?,donor
+How do I start the living donor evaluation process?,donor
 I'd be willing to help someone who needs a transplant.,donor
 I'd be willing to become a living organ donor.,donor
 I'm exploring how to become a living organ donor.,donor
@@ -89,16 +99,6 @@ I'm interested in support a patient through organ donation.,donor
 I'm looking into become a living organ donor.,donor
 I'd like information about learn about kidney donation.,donor
 I'm looking into volunteer as a living donor.,donor
-I would be happy to learn about kidney donation.,donor
-I'm interested in offer to donate an organ.,donor
-I'm interested in volunteer as a living donor.,donor
-I'd like information about begin the organ donation process.,donor
-I'm exploring how to volunteer as a living donor.,donor
-I want to learn about kidney donation.,donor
-I'm considering learn about kidney donation.,donor
-I'm looking into support a patient through organ donation.,donor
-I would like to become a living organ donor.,donor
-I would be happy to offer to donate an organ.,donor
 I need help finding a kidney donor.,patient
 My father is waiting for a liver transplant.,patient
 How can patients register on your website?,patient
@@ -109,6 +109,16 @@ I want to create a patient profile.,patient
 How can I connect with potential organ donors?,patient
 My brother has been waiting for a transplant.,patient
 Can your organization help me find a donor?,patient
+How can I find a kidney donor?,patient
+I need someone who can donate a kidney to me.,patient
+Can you help me find a living organ donor?,patient
+My doctor says I need a kidney transplant.,patient
+I'm on the transplant waiting list.,patient
+How can I register as a patient who needs a kidney?,patient
+My family is searching for someone willing to donate.,patient
+What should I do if I cannot find a matching donor?,patient
+I need a transplant but don't know where to start.,patient
+Can someone help me find a donor for my mother?,patient
 I'm searching for understanding the transplant waiting process.,patient
 My family needs help with creating a patient profile.,patient
 I need help with connecting with potential donors.,patient
@@ -189,16 +199,6 @@ I'm trying to understand understanding the transplant waiting process.,patient
 My family needs help with finding help for a family member needing a transplant.,patient
 I would like information about creating a patient profile.,patient
 I'm searching for locating a living organ donor.,patient
-I would appreciate support with understanding the transplant waiting process.,patient
-I'm searching for finding transplant resources.,patient
-Can you help me with finding transplant resources.,patient
-I'm trying to understand finding help for a family member needing a transplant.,patient
-I need guidance on finding help for a family member needing a transplant.,patient
-Can you help me with locating a living organ donor.,patient
-Could you assist me with locating a living organ donor.,patient
-I'm looking for understanding the transplant waiting process.,patient
-Could you assist me with getting support during a transplant search.,patient
-I'm looking for finding help for a family member needing a transplant.,patient
 I would like to advertise on your website.,advertiser
 What are your advertising rates?,advertiser
 Our company wants to sponsor your newsletter.,advertiser
@@ -319,6 +319,16 @@ I forgot my password and need assistance.,general
 Can someone help me troubleshoot a website issue?,general
 I am unable to upload a document.,general
 The registration page is not loading correctly.,general
+Help with my account login issues,general
+I cannot log into my account,general
+I forgot my password,general
+How do I reset my password?,general
+My account is locked,general
+I am having trouble signing in,general
+The website is not letting me log in,general
+I need technical support with my account,general
+How can I update my account information?,general
+I am experiencing problems accessing my profile,general
 Can someone help me understand your website features.,general
 I'd appreciate information about your general services.,general
 Could you explain your organization's mission.,general
@@ -389,13 +399,3 @@ I have a question about your organization's history.,general
 Could you tell me about your operating hours.,general
 I have a question about your contact information.,general
 Could you explain your website features.,general
-Where can I find details about your operating hours.,general
-I'm looking for information about your newsletter subscription.,general
-I'd appreciate information about your website features.,general
-Could you tell me about your organization's history.,general
-Can someone help me understand your operating hours.,general
-Could you tell me about your newsletter subscription.,general
-I would like to know about your customer support options.,general
-Could you tell me about your customer support options.,general
-I'm looking for information about your general services.,general
-Where can I find details about your contact information.,general

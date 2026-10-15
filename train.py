@@ -34,7 +34,7 @@ print("Testing samples:", len(X_test))
 
 # Create a machine learning pipeline
 model = Pipeline([
-    ("tfidf", TfidfVectorizer()),
+    ("tfidf", TfidfVectorizer(ngram_range=(1, 2), sublinear_tf=True)),
     ("classifier", LogisticRegression(max_iter=1000))
 ])
 
