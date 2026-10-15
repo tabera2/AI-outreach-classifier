@@ -6,7 +6,7 @@ Built as an independent proof of concept inspired by the communication needs of 
 
 ## Live Demo
 
-**[Try the AI Outreach Classifier](https://outreach-classifier-ai.streamlit.app/)**
+**[Try the AI Outreach Classifier](https://ai-outreach-classifier.streamlit.app)**
 
 **[GitHub Repository](https://github.com/tabera2/AI-outreach-classifier)**
 
